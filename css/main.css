@@ -36,7 +36,7 @@
  * ------------------------------------------------------------------- 
  */
 @import url("fonts.css");
-@import url("font-awesome/css/font-awesome.min.css");
+@import url("font-awesome/fontawesome.min.css");
 @import url("micons/micons.css");
 @import url('https://fonts.googleapis.com/css?family=Montserrat:500,600');
 @import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
@@ -1387,16 +1387,16 @@ header .logo a {
 .intro-content .button:hover, .intro-content .button:focus {
 	border-color: #ea1821;
 }
-.intro-content .button::after {
+/*.intro-content .button::after {
 	display: inline-block;
-	content: "\f107";
-	font-family: fontAwesome;
+	content: "\f063";
+	font-family: fontawesome;
 	font-size: 1.6rem;
 	line-height: inherit;
 	text-align: center;
 	position: relative;
 	left: 1.2rem;
-}
+} */
 
 .intro-social {
 	display: block;
